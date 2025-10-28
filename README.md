@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 28.10.2025
+# Reg. No. 212223060130
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -29,8 +29,8 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 7.	Compare the Generated Image with the Original:
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
 ## Tools/LLMs for Image Generation:
-●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
-○	Website: DALL·E
+●	Gemini (by Google): A text-to-image generation tool capable of creating detailed images from textual prompts.
+○	Website: Gemini
 ●	Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs.
 ○	Website: Stable Diffusion
 ●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
@@ -52,4 +52,19 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## IMAGES: (OUTPUT)
+
+ORIGINAL IMAGE:
+<img width="292" height="281" alt="image" src="https://github.com/user-attachments/assets/4c79cdf7-1620-4af7-a6ba-6de8746134a4" />
+
+GENERATED IMAGE:
+
+<img width="1526" height="972" alt="image" src="https://github.com/user-attachments/assets/995953d6-6dd9-414e-95b5-2f6161bc1887" />
+
+ORIGINAL IMAGE:
+<img width="285" height="284" alt="image" src="https://github.com/user-attachments/assets/df9de422-4eed-4a42-97b4-ff12f0f0daf5" />
+
+GENERATED IMAGE:
+<img width="1903" height="1023" alt="image" src="https://github.com/user-attachments/assets/67d478ea-4730-4199-adb7-19631015b4d6" />
+
+
