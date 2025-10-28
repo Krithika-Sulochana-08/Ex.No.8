@@ -55,6 +55,7 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (OUTPUT)
 
 ORIGINAL IMAGE:
+
 <img width="292" height="281" alt="image" src="https://github.com/user-attachments/assets/4c79cdf7-1620-4af7-a6ba-6de8746134a4" />
 
 GENERATED IMAGE:
@@ -62,9 +63,11 @@ GENERATED IMAGE:
 <img width="1526" height="972" alt="image" src="https://github.com/user-attachments/assets/995953d6-6dd9-414e-95b5-2f6161bc1887" />
 
 ORIGINAL IMAGE:
+
 <img width="285" height="284" alt="image" src="https://github.com/user-attachments/assets/df9de422-4eed-4a42-97b4-ff12f0f0daf5" />
 
 GENERATED IMAGE:
+
 <img width="1903" height="1023" alt="image" src="https://github.com/user-attachments/assets/67d478ea-4730-4199-adb7-19631015b4d6" />
 
 
